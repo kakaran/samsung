@@ -1,0 +1,30 @@
+@import url(//db.onlinewebfonts.com/c/05c77f210065b750f9ad9d606be229d2?family=SamsungOne);
+
+.color-lightblue
+{
+    background-color:#3298EB;
+}
+.top-border-null
+{
+    border-top:0ch;
+}
+.text-line
+{
+    text-decoration: line-through;
+}
+
+.font-size-small
+{
+    font-size: 10px;;
+}
+
+.font-size-15px
+{
+    font-size: 13px;
+}
+
+.samsung-font-style
+{
+    font-family: SamsungOne;
+}
+
