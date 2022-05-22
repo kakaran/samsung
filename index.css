@@ -28,3 +28,22 @@
     font-family: SamsungOne;
 }
 
+.remove-underline
+{
+    text-decoration: none;
+}
+
+.side-borders-none
+{
+    border-left:none;
+    border-right: none;
+}
+
+@media (max-width: 575.98px) { 
+
+    .height
+    {
+        height: 320px;
+    }
+    
+ }
