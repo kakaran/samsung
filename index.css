@@ -45,5 +45,10 @@
     {
         height: 320px;
     }
+
+    .position
+    {
+        position: none;
+    }
     
  }
